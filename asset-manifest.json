@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/franklinv/search-photos-app/static/css/main.d0544c0f.chunk.css",
+    "main.js": "/franklinv/search-photos-app/static/js/main.baf674c2.chunk.js",
+    "main.js.map": "/franklinv/search-photos-app/static/js/main.baf674c2.chunk.js.map",
+    "runtime-main.js": "/franklinv/search-photos-app/static/js/runtime-main.c08d1b6e.js",
+    "runtime-main.js.map": "/franklinv/search-photos-app/static/js/runtime-main.c08d1b6e.js.map",
+    "static/css/2.6664b3cd.chunk.css": "/franklinv/search-photos-app/static/css/2.6664b3cd.chunk.css",
+    "static/js/2.adfe6ff9.chunk.js": "/franklinv/search-photos-app/static/js/2.adfe6ff9.chunk.js",
+    "static/js/2.adfe6ff9.chunk.js.map": "/franklinv/search-photos-app/static/js/2.adfe6ff9.chunk.js.map",
+    "index.html": "/franklinv/search-photos-app/index.html",
+    "precache-manifest.8f43acd8b362671273f93505827b461d.js": "/franklinv/search-photos-app/precache-manifest.8f43acd8b362671273f93505827b461d.js",
+    "service-worker.js": "/franklinv/search-photos-app/service-worker.js",
+    "static/css/2.6664b3cd.chunk.css.map": "/franklinv/search-photos-app/static/css/2.6664b3cd.chunk.css.map",
+    "static/css/main.d0544c0f.chunk.css.map": "/franklinv/search-photos-app/static/css/main.d0544c0f.chunk.css.map",
+    "static/js/2.adfe6ff9.chunk.js.LICENSE.txt": "/franklinv/search-photos-app/static/js/2.adfe6ff9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/franklinv/search-photos-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c08d1b6e.js",
+    "static/css/2.6664b3cd.chunk.css",
+    "static/js/2.adfe6ff9.chunk.js",
+    "static/css/main.d0544c0f.chunk.css",
+    "static/js/main.baf674c2.chunk.js"
+  ]
+}
