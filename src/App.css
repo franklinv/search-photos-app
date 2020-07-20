@@ -28,6 +28,107 @@
   color: #61dafb;
 }
 
+
+.searchBox {
+  width: 50%;
+  border: 3px solid #D1D1D1;
+  padding-top: 15px;
+  border-right: none;
+  margin-left:10px;
+  height: 50px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  font-size: 17px;
+  vertical-align: bottom;
+  color: darkgrey;
+}
+
+.searchBox:focus{
+  color:#000000;
+}
+
+.searchButton {
+  width: 40px;
+  height: 50px;
+  border: 1px solid #D1D1D1;
+  background: #D1D1D1;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+  vertical-align: bottom;
+}
+
+.divstyle {
+  text-align: center;
+}
+
+
+.card
+{
+  
+  border-radius: 5px;
+  width:100%; 
+  margin:0 auto;
+}
+
+
+
+.imgstyle
+{
+  width:700px;
+  height:auto;
+  margin:7px;
+  border: 1px solid #808080;
+  border-radius: 5px 5px 0 0;
+}
+
+
+.pagination {
+  margin: 15px auto;
+  margin-left:350px ;
+  display: flex;
+  list-style: none;
+  outline: none;
+  margin-top: 30px;
+ 
+  
+}
+.pagination > .active > a{
+  background-color: #8c8d8d ;
+  border-color: #8c8d8d ;
+  color: #fff;
+}
+.pagination > li > a{
+  border: 1px solid #c6e2ff ;
+  padding: 5px 10px;
+  outline: none;
+  cursor: pointer;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+  background-color: #47ccde ;
+  border-color: #47ccde;
+  outline: none ;
+}
+.pagination > li > a, .pagination > li > span{
+  color: #47ccde
+}
+/*
+.pagination > li:first-child > a, .pagination > li:first-child > span, .pagination > li:last-child > a, .pagination > li:last-child > span{
+  border-radius: unset
+}
+*/
+
+.pagination > li:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination > li:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
